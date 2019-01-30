@@ -108,3 +108,4 @@ We have a set of [starter tasks](https://github.com/Instagram/IGListKit/issues?q
 `IGListKit` is [MIT-licensed](./LICENSE).
 
 The files in the `/Examples/` directory are licensed under a separate license as specified in each file. Documentation is licensed [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
